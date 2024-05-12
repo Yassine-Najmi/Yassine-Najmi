@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-najmi&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-najmi" /> </p>
 
-- 🔭 I’m currently working on [Inertia CRM](https://github.com/Yassine-Najmi/inertia-crm)
+- 🔭 I’m currently working on [The Observable Universe](https://github.com/Yassine-Najmi/the-observable-universe)
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Laravel, React and Inertia**
+- 💬 Ask me about **Laravel,Vue, React and Inertia**
 
 - 📫 How to reach me **yassine.najmi01@gmail.com**
 
