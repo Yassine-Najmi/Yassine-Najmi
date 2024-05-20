@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine Najmi</h1>
-<h3 align="center">A full-stack web developer</h3>
+<h3 align="center">Full-stack web developer with a focus on backend, using Laravel, Vue, React, Tailwind, and Inertia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-najmi&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-najmi" /> </p>
 
