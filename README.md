@@ -24,5 +24,5 @@ Feel free to connect with me or reach out if you have any questions or collabora
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Yassine's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassine-Najmi&show_icons=true&theme=radical" alt="Yassine's GitHub stats">
 </p>
