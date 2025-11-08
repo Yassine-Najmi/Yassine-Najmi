@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine Najmi</h1>
-<h3 align="center">Full-stack web developer with a focus on backend, using Laravel, Vue, React, Tailwind, and Inertia.</h3>
+<h3 align="center">Full-stack web developer with a focus on backend, using Laravel, Filamentphp, React, Tailwind, and Inertia.</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - I started coding in C language at the university in 2020.
 - I have been coding with **PHP** for more than 1 year and **JavaScript** for more than 2 years.
 - I enjoy working with **Laravel** and love the **VILT STACK** (Vue.js, Inertia.js, Laravel, and Tailwind).
-- I am passionate about **Linux** OS and curious about AWS.
+- I am passionate about **Linux** OS.
 - I speak English, French, and Arabic.
 
 ---
