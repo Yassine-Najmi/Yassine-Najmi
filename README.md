@@ -25,7 +25,7 @@ Main focus areas:
 
 ### Interests
 
-Backend architecture, infrastructure, automation, and system integrations. Always learning about better ways to build and deploy applications.
+Backend architecture, infrastructure, automation.
 
 ---
 
@@ -40,5 +40,3 @@ French, English, Arabic
 - LinkedIn: [linkedin.com/in/yassinenajmi](https://www.linkedin.com/in/yassinenajmi/)
 - Twitter: [@YassineNajmi_](https://x.com/YassineNajmi_)
 - Email: yassine.najmi01@gmail.com
-
-Open to discussions about Laravel, FilamentPHP, N8N automation, and backend development.
