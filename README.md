@@ -46,5 +46,5 @@ Open to discussions about Laravel, FilamentPHP, N8N automation, and backend deve
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yassine-Najmi&show_icons=true&theme=radical" alt="Yassine's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassine-Najmi&show_icons=true&theme=dark" alt="GitHub stats">
 </p>
