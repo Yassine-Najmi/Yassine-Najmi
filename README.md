@@ -1,28 +1,50 @@
-<h1 align="center">Hi 👋, I'm Yassine Najmi</h1>
-<h3 align="center">Full-stack web developer with a focus on backend, using Laravel, Filamentphp, React, Tailwind, and Inertia.</h3>
+<h1 align="center">Hi, I'm Yassine</h1>
+<h3 align="center">Backend developer interested in building business applications and automation</h3>
 
 ---
 
-### About Me
+### What I'm working on
 
-- I started coding in C language at the university in 2020.
-- I have been coding with **PHP** for more than 1 year and **JavaScript** for more than 2 years.
-- I enjoy working with **Laravel** and love the **VILT STACK** (Vue.js, Inertia.js, Laravel, and Tailwind).
-- I am passionate about **Linux** OS.
-- I speak English, French, and Arabic.
+Building business applications with **Laravel/FilamentPHP** and automating data flows between different systems using **N8N**.
+
+Main focus areas:
+- Backend development and API design
+- Workflow automation and system integrations
+- Infrastructure and deployment automation
 
 ---
 
-### How to Reach Me
+### Tech Stack
 
-- **Email:** yassine.najmi01@gmail.com
-- **Twitter:** [YassineNajmi_](https://x.com/YassineNajmi_)
-- **LinkedIn:** [Yassine Najmi](https://www.linkedin.com/in/yassinenajmi/)
+**Backend:** PHP, Laravel, FilamentPHP, Livewire  
+**Frontend:** React.js, Inertia.js, TailwindCSS  
+**Automation:** N8N, webhooks, API integrations  
+**Infrastructure:** Docker, GitHub Actions, Linux, MySQL
 
-Feel free to connect with me or reach out if you have any questions or collaboration ideas!
+---
+
+### Interests
+
+Backend architecture, infrastructure, automation, and system integrations. Always learning about better ways to build and deploy applications.
+
+---
+
+### Languages
+
+French, English, Arabic
+
+---
+
+### Contact
+
+- LinkedIn: [linkedin.com/in/yassinenajmi](https://www.linkedin.com/in/yassinenajmi/)
+- Twitter: [@YassineNajmi_](https://x.com/YassineNajmi_)
+- Email: yassine.najmi01@gmail.com
+
+Open to discussions about Laravel, FilamentPHP, N8N automation, and backend development.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yassine-Najmi&show_icons=true&theme=radical" alt="Yassine's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassine-Najmi&show_icons=true&theme=radical" alt="GitHub stats">
 </p>
