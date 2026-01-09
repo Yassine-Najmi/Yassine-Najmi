@@ -42,9 +42,3 @@ French, English, Arabic
 - Email: yassine.najmi01@gmail.com
 
 Open to discussions about Laravel, FilamentPHP, N8N automation, and backend development.
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassine-Najmi&theme=dark" alt="GitHub Streak">
-</p>
